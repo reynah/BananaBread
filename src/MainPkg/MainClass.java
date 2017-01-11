@@ -16,7 +16,7 @@ package MainPkg;
     public static void main(String[] args){
         System.out.println("Hello World");
         
-        int myNumber = 44;
+        int myNumber = 422;
         System.out.println(myNumber);
         
         String text = "Hello";
@@ -27,9 +27,6 @@ package MainPkg;
         System.out.println(text+blank+name);
         System.out.println(greeting);
         System.out.println("My Number is: " + myNumber);
-        
-        
-
         
 
                 
